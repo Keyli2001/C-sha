@@ -1,8 +1,0 @@
-< Proyecto  Sdk = " Microsoft.NET.Sdk " >
-
-  < Grupo de propiedades >
-    < OutputType > Exe </ OutputType >
-    < TargetFramework > net5.0 </ TargetFramework >
-  </ PropertyGroup >
-
-</ Proyecto >
